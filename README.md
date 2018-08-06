@@ -20,4 +20,4 @@ The project is set up as an eclipse project, so can be imported via the import o
 
 ## Additional notes
 
-As it is intended for educational purposes, this library is missing many desirable features and optimisations. It prioritises clarity and simplicity over all other considerations.
+As it is intended for educational purposes, this library is missing many desirable features and optimisations. It prioritises clarity and simplicity over all other considerations.# myUNSWgraph
